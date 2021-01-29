@@ -16,5 +16,6 @@ class Cars:
         return cls(4, "yellow")
 van = Cars.van()
 sports_car = Cars.sports_car()
+
 print(van)
 print(sports_car)

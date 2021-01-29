@@ -11,3 +11,4 @@ class Employee:
   
 obj = Employee() 
 del obj 
+obj1 = Employee() 
